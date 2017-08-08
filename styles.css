@@ -1,50 +1,50 @@
 body {
-			background-color: #eeeeee;
-		}
+	background-color: #eeeeee;
+}
 
-		header {
-			text-align: center;
-		}
+header {
+	text-align: center;
+}
 
-		.jumbotron-photo {
-			height: 180px;
-			width: 100%;
-			position: fixed;
-			top: 0;
-			left: 0;
-			background: url('header.jpg') center;
-			background-size: cover;
-		}
+.jumbotron-photo {
+	height: 180px;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: url('header.jpg') center;
+	background-size: cover;
+}
 
-		.title {
-			padding-top: 145px;
-			font-size: 50px;
-			font-family: 'Patua One', cursive;
+.title {
+	padding-top: 145px;
+	font-size: 50px;
+	font-family: 'Patua One', cursive;
 
-		}
-		
-		.sub-title {
-			font-size: 20px;
-			font-family: 'Source Sans Pro', sans-serif;
-			margin-top: -30px;
-			margin-bottom: 30px;
-		}
+}
 
-		.main-content {
-			margin-left: 0px;
-			text-align: center;
-			font-size: 20px;
-			font-family: 'Source Sans Pro', sans-serif;
-		}
+.sub-title {
+	font-size: 22px;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-top: -30px;
+	margin-bottom: 30px;
+}
 
-		.main-content a {
-			color: black;
-		}
+.main-content {
+	margin-left: 0px;
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
 
-		.entry {
-			margin-bottom: 40px;
-		}
+.main-content a {
+	color: black;
+}
 
-		.source {
-			text-decoration: none;
-		}
+.entry {
+	margin-bottom: 40px;
+}
+
+.source {
+	text-decoration: none;
+}
